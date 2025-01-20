@@ -1,6 +1,6 @@
 import { formatCurrency } from "../helpers"
 import { OrderItem } from "../types"
-import OrderTotals from "./orderTotals"
+
 
 type OrderContentsProps = {
     order: OrderItem[],

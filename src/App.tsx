@@ -3,8 +3,9 @@ import MenuItem from './components/MenuItem';
 import {menuItems} from './data/db';
 import useOrder from './hooks/useOrder';
 import OrderContents from './components/OrderContents';
-import OrderTotals from './components/orderTotals';
 import TipPercentageForm from './components/TipPercentageForm';
+import OrderTotals from './components/OrderTotals';
+
 
 
 function App() {
